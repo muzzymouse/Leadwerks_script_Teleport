@@ -1,4 +1,4 @@
-# Leadwerks_script_Teleport
+# Leadwerks script: Teleport
 ![](https://img.shields.io/badge/Leadwerks-4.0-orange.svg)
 
 
